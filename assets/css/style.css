@@ -26,7 +26,7 @@ padding: 0 1rem;
 position: fixed;
 z-index: 99; 
 width: 100%;
-box-shadow: 0 2px 2px #3a3a3a;
+box-shadow: 0 2px 2px bisque;
 display: flex;
 justify-content: space-between;
 align-items: baseline;
@@ -63,7 +63,7 @@ border-bottom: 1px solid #3a3a3a;
     width: 100%;
     left: 0;
     padding: 0 1rem;
-    box-shadow: 0 2px 2px #3a3a3a;
+    box-shadow: 0 2px 2px bisque;
     display: none;
     top: 100%;
  }
@@ -90,9 +90,34 @@ main{
 background-color: aquamarine;
 /* Use to push footer down*/
 flex: 1 0 auto;
+margin-top: 47px;
 }
 
 /*footer*/
 footer{
 background-color: chartreuse;
+}
+
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+    #menu {
+        display: flex;
+    }
+
+    #menu > li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
 }
