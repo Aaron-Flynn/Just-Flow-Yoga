@@ -23,6 +23,10 @@ header{
 background-color: bisque;
 }
 
+h1{
+    font-family: 'Bebas Neue' , sans-serif ;
+}
+
 /*main*/
 main{
 background-color: aquamarine;
