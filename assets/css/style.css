@@ -99,6 +99,29 @@ margin-top: 47px;
     background: url("../images/ivan-zakharenko-KeGKEOjhy6E-unsplash.jpg") no-repeat center center/cover ;   
 }
 
+#hero-classes{
+    height: 0px;
+    width: 100%;
+    max-width: 1080px;
+    margin: 0 auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    flex: 1;
+}
+ #comments{
+    margin: 0 auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+ }
+
 /*class timetable*/
 #timetable{
     padding: 1rem 0;
@@ -148,6 +171,7 @@ display: inline-block;
 position: relative;
 padding: 2rem;
 }
+
 
 /*map*/
 #map-wrapper{
