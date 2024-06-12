@@ -96,8 +96,47 @@ margin-top: 47px;
 #hero{
     height: 900px;
     width: 100%;
-    background: url("../images/ivan-zakharenko-KeGKEOjhy6E-unsplash.jpg") no-repeat center center/cover ;
-    
+    background: url("../images/ivan-zakharenko-KeGKEOjhy6E-unsplash.jpg") no-repeat center center/cover ;   
+}
+
+/*class timetable*/
+#timetable{
+    padding: 1rem 0;
+    margin-bottom: 80px;
+    background: url(../images/luna-active-fitness-O3AA1XfKofM-unsplash.jpg);
+
+
+}
+
+.text-center{
+    text-align: center;
+}
+
+#carrick{
+    background-color: rgb(248, 240, 231);
+    position: relative;
+    left: 70px;
+    top: -15px;
+}
+
+#online{
+    background-color: rgb(248, 240, 231);
+    position: relative;
+    right: 70px;
+    top: -15px;
+}
+
+#dublin{
+    background-color: rgb(248, 240, 231);
+    position: relative;
+    right: 70px;
+    top: -15px;
+}
+
+.times-section{
+    width: 33%;
+    margin: 1rem 0;
+    display: inline-block;
 }
 
 /*footer*/
@@ -107,6 +146,7 @@ margin-top: 47px;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    background-color: bisque;
 
 }
 
