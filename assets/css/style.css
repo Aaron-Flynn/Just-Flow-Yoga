@@ -162,7 +162,19 @@ padding: 2rem;
     
 }
 
-
+/*sign up button*/
+#button{
+display: block;
+height: 100px;
+width: 200px;
+background: rgb(206, 248, 248);
+color: #ffffff;
+text-align: center;
+font-weight: bold;
+font-size: 100%;
+line-height: 100px;
+border-radius: 20px;
+}
 
 /*footer*/
 #social-networks {
