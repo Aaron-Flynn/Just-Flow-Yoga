@@ -286,16 +286,13 @@ line-height: 0;
     color: #3a3a3a;
 }
 
-/*Gallery*/
-#photos{
-    column-count: 2;
-}
+
 
 
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
     #photos {
-        column-count: auto;
+        column-count: 2;
         column-gap: 0;
     }
 }
@@ -346,6 +343,12 @@ line-height: 0;
     .text-input:hover {
         border-color: #f16c6b;
     }
+
+    /*Gallery*/
+#photos{
+    column-count: 3;
+}
+
 }
 
 
@@ -365,5 +368,5 @@ main {
 
 /*Gallery*/
 #photo{
-    column-count: auto;
+    column-count: 4;
 }
