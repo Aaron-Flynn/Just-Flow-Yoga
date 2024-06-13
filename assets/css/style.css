@@ -99,6 +99,12 @@ margin-top: 47px;
     background: url("../images/ivan-zakharenko-KeGKEOjhy6E-unsplash.jpg") no-repeat center center/cover ;   
 }
 
+#hero-two{
+    height: 900px;
+    width: 100%;
+    background: url("../images/full-shot-women-doing-plank.jpg") no-repeat center center/cover ;   
+}
+
 #hero-classes{
     height: 0px;
     width: 100%;
@@ -176,7 +182,8 @@ padding: 2rem;
 /*map*/
 #map-wrapper{
     height: 300px;
-    margin-bottom: 55px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 #map{
