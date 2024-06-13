@@ -22,7 +22,7 @@ body{
 /*header*/
 header{
 background-color: bisque;
-padding: 0 1rem;
+padding: 0 10rem;
 position: fixed;
 z-index: 99; 
 width: 100%;
@@ -126,6 +126,7 @@ margin-top: 47px;
     align-items: center;
     flex-direction: column;
     text-align: center;
+    font-weight: bold;
  }
 
 /*class timetable*/
@@ -176,6 +177,12 @@ ul{
 display: inline-block;
 position: relative;
 padding: 2rem;
+}
+
+#text h1{
+    padding: 70px 0;
+    border: 3px;
+     
 }
 
 
@@ -237,14 +244,14 @@ line-height: 0;
 
 /*Gallery*/
 #photos{
-    column-count: 3;
+    column-count: 2;
 }
 
 
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
     #photos {
-        column-count: 2;
+        column-count: auto;
         column-gap: 0;
     }
 }
@@ -296,5 +303,5 @@ main {
 
 /*Gallery*/
 #photo{
-    column-count: 4;
+    column-count: auto;
 }
