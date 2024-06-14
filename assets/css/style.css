@@ -158,25 +158,22 @@ flex-direction: column;
 
 #carrick{
     background-color: rgb(226, 255, 255);
-    
     left: 70px;
     top: -15px;
-    z-index: 7;
 }
 
 
 #online{
     background-color: rgb(226, 255, 255);
-    
-    z-index: 7;
+    box-shadow: 2px 11px rgb(226, 255, 255);
+   
 
 }
 
 #dublin{
     background-color: rgb(226, 255, 255);
-    
     right: 70px;
-    top: -15px;
+    top: -15px;  
 }
 
 .times-section{
@@ -191,8 +188,15 @@ ul{
 
 #text{
 display: inline-block;
-position: relative;
 padding: 2rem;
+margin: 0 auto;
+padding-top: 40px;
+padding-bottom: 40px;
+display: flex;
+align-items: center;
+flex-direction: column;
+text-align: center;
+font-weight: bold;
 }
 
 #text h1{
