@@ -259,16 +259,16 @@ line-height: 0;
 
 #signup-form{
     color: #ffffff;
-    background-color: transparent;
-    padding: 30px; 
+    background-color: transparent; 
     width: 100%;
     margin: 0 auto;
-    padding-top: 10px;
+    padding-top: 30px;
     display: flex;
     align-items: center;
     flex-direction: column;
     flex: 1 0 auto;
-   
+    top: 50px;
+    bottom: 40px;
 }
 
 #signup-form>h2{
@@ -292,10 +292,10 @@ label{
 }
 
 .join-button{
-    margin-top: 20px;
+    margin-top: 10px;
     border-radius: 2px;
-    padding: 10px 20px;
-    font-size: 100%;
+    padding: 10px 50px;
+    font-size: 50%;
     background-color: #454b1b;
     color:#fafafa;
     display: flex;
@@ -342,6 +342,8 @@ label{
         background-position: center;
         position: relative;
     }
+
+
     }
 
 
@@ -379,13 +381,15 @@ label{
     #signup {
         background-position: center;
         position: relative;
+        }
     }
 
     #signup-form {
         max-width: 400px;
         position: absolute;
         left: 10%;
-        top: 150px;
+        top: 50px;
+       
     }
 
     .text-input:hover {
@@ -402,10 +406,6 @@ main {
     /* Push main content down to accommodate larger header */
     margin-top: 79px;
 }
-
-}
-
-
 
 
 
