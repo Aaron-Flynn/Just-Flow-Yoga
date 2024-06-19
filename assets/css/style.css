@@ -57,6 +57,13 @@ h1{
     color: #252525;
 }
 
+h2, h3, h4 {
+    font-family: 'Bebas Neue' , sans-serif ;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #252525;
+}
+
 #menu{
     font-size: 110%;
     letter-spacing: 4px;
@@ -120,16 +127,6 @@ flex-direction: column;
     
 }
 
- #comments{
-    margin: 0 auto;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    text-align: center;
-    font-weight: bold;
- }
 
 /*class timetable*/
 #timetable{
@@ -211,7 +208,7 @@ font-weight: bold;
 display: grid;
 height: 100px;
 width: 200px;
-background: rgb(206, 248, 248);
+background: bisque;
 color: #ffffff;
 text-align: center;
 font-weight: bold;
