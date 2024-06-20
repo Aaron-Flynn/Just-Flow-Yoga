@@ -2,10 +2,11 @@
 
 this is the heading
 
-# wireframes
+# wireframes/UX 
 
 ![sign up for classes](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/59a5183e-abc4-48ff-bc9c-d4a05b05f1b1)
 
+![burger home 3](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/901207e2-6c20-4ea3-aeee-0f212c0e7895)
 
 
 
