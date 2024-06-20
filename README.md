@@ -6,7 +6,8 @@ this is the heading
 
 ![sign up for classes](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/59a5183e-abc4-48ff-bc9c-d4a05b05f1b1)
 
-![burger home 3](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/901207e2-6c20-4ea3-aeee-0f212c0e7895)
+![buregr home 4 ](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/bd88b8d5-d6d2-4ddc-8b09-a8a3e2fa49c7)
+
 
 
 
