@@ -23,11 +23,11 @@ this is the heading
 ![draft home](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/bcbec20f-e5f6-4d58-9a23-061b8b76d0b5)
 
 
-![mobiles home](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/10cb753a-9344-4152-9462-733b1aaabb70)
+![draft classes](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/7b9010f4-ba56-4057-97d2-3cd1b6cc6500)
 
-![mobile classes](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/56d8053c-23bf-4ff0-8224-033e66386511)
 
-![gallery mobile](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/47202e32-f6ad-4978-8fbe-4206c7095986)
+![draft gallery ](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/0bfc8efc-cb4e-4d2d-8069-66dedf0c2d3e)
 
-![sign up mobile](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/dcb1d7d8-c98d-4567-b20f-abe8958b26e7)
 
+
+![sign up draft](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/37433ec4-aaa6-4f29-8e0f-fbe9f67f86af)
