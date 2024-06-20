@@ -20,6 +20,7 @@ this is the heading
 # Design 
 
 
+![draft home](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/bcbec20f-e5f6-4d58-9a23-061b8b76d0b5)
 
 
 ![mobiles home](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/10cb753a-9344-4152-9462-733b1aaabb70)
