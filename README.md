@@ -3,7 +3,7 @@
 this is the heading
 
 # wireframes/UX 
-
+Navigation 
 ![sign up for classes](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/59a5183e-abc4-48ff-bc9c-d4a05b05f1b1)
 
 ![burger home 3](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/00a61c93-ac27-417c-b391-5c329695c99d)
@@ -11,9 +11,14 @@ this is the heading
 
 ![ux by 2](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/e1f9eca0-a436-401f-af0f-669e1f440172)
 
+Other Features include: color tone,sense or relaxtion with the bisque color in keeping with the aim of yoga
+3 different types of classes 2 in location and 1 online .The online classes are in the center and pushed out of center.
+
+
 # Credit
 
 # Testing 
+put in w3c test's 
 
 # Design 
 
