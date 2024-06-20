@@ -9,7 +9,9 @@ this is the heading
 ![burger home 3](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/00a61c93-ac27-417c-b391-5c329695c99d)
 
 
+![ux sign up ](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/99bd12c4-ad3b-4985-b05d-f3fa8b409817)
 
+![ux gallery ](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/5265c3bf-de13-4a11-b82c-5c058fb47996)
 
 
 
