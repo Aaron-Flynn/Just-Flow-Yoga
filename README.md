@@ -11,6 +11,9 @@ Navigation
 
 ![ux by 2](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/e1f9eca0-a436-401f-af0f-669e1f440172)
 
+![features](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/38f4bf2e-ed14-4ec5-b2ef-c132f2cc4486)
+
+
 Other Features include: color tone,sense or relaxtion with the bisque color in keeping with the aim of yoga
 3 different types of classes 2 in location and 1 online .The online classes are in the center and pushed out of center.
 
