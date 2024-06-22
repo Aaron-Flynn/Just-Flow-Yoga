@@ -6,9 +6,9 @@ UX / Features
 
 ![sign up for classes](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/59a5183e-abc4-48ff-bc9c-d4a05b05f1b1)
 
-![lasses box shadow](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/1eb78be5-be14-4ba0-b1be-e15b4bc38bfd)
-
 ![cta](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/5ce9dc66-a65e-40a0-879f-fc51add769a1)
+
+![lasses box shadow](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/1eb78be5-be14-4ba0-b1be-e15b4bc38bfd)
 
 ![colors used](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/50501173-012b-4773-b213-36e1dcdeae69)
 
