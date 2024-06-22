@@ -3,9 +3,13 @@
 this is the heading
 
 # Wireframes
+
 ![sketch cta](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/0a504437-a480-4ac4-8ca7-7422a86275b5)
 
+
+
 ![sketch sign up](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/353a629f-f88b-4efd-93a4-8a32931bfe9e)
+
 
 ![sketch gallery](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/006c18e1-ebb4-47c7-b37e-d7d775a13e80)
 
