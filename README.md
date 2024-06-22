@@ -10,8 +10,6 @@ Navigation
 ![cta](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/5ce9dc66-a65e-40a0-879f-fc51add769a1)
 
 
-![burger home 3](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/00a61c93-ac27-417c-b391-5c329695c99d)
-
 
 ![burger](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/323af2fe-71f5-405b-bef0-51e18d78a5b8)
 
