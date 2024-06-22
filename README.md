@@ -2,7 +2,7 @@
 
 this is the heading
 
-# wireframes/UX 
+UX / Features
 
 ![sign up for classes](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/59a5183e-abc4-48ff-bc9c-d4a05b05f1b1)
 
