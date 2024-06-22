@@ -50,14 +50,7 @@ header a {
 }
 
 
-h1{
-    font-family: 'Bebas Neue' , sans-serif ;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: #252525;
-}
-
-h2, h3, h4 {
+h1, h2, h3, h4 {
     font-family: 'Bebas Neue' , sans-serif ;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -259,7 +252,7 @@ line-height: 0;
     background-color: transparent; 
     width: 100%;
     margin: 0 auto;
-    padding-top: 30px;
+    padding-top: 200px;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -378,30 +371,30 @@ label{
         background-position: center;
         position: relative;
         }
-    }
 
-    #signup-form {
-        max-width: 400px;
-        position: absolute;
-        left: 10%;
-        top: 50px;
-       
-    }
+        #signup-form {
+            max-width: 400px;
+            position: absolute;
+            left: 10%;
+            top: 200px;
+           
+        }
+    
+        .text-input:hover {
+            border-color: #f16c6b;
+        }
 
-    .text-input:hover {
-        border-color: #f16c6b;
-    }
-
-    /*Gallery*/
+            /*Gallery*/
 #photos{
     column-count: 3;
 }
+    }
 
-/* Main content */
-main {
-    /* Push main content down to accommodate larger header */
-    margin-top: 79px;
-}
+    
+
+
+
+
 
 
 
@@ -410,9 +403,4 @@ main {
 #menu a:hover{
     border-bottom: 1px solid #3a3a3a;
 }
-}
-
-/*Gallery*/
-#photo{
-    column-count: 4;
 }
