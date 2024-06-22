@@ -12,7 +12,8 @@ Navigation
 ![ux by 2](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/e1f9eca0-a436-401f-af0f-669e1f440172)
 
 
-![features 4](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/72191f1c-bf3c-4f73-979b-b90462c1d5f0)
+
+![features 5](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/648c393e-f22e-467e-a2ee-695ad08f8f3f)
 
 
 
