@@ -11,7 +11,8 @@ Navigation
 
 ![ux by 2](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/e1f9eca0-a436-401f-af0f-669e1f440172)
 
-![features](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/38f4bf2e-ed14-4ec5-b2ef-c132f2cc4486)
+
+![features 2](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/5daadf9c-ce79-4402-8aec-4fa370bd641e)
 
 
 Other Features include: color tone,sense or relaxtion with the bisque color in keeping with the aim of yoga
