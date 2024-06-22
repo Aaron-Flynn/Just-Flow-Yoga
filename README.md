@@ -3,6 +3,7 @@
 this is the heading
 
 # Wireframes
+<<<<<<< HEAD
 
 ![sketch cta](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/0a504437-a480-4ac4-8ca7-7422a86275b5)
 
@@ -10,6 +11,17 @@ this is the heading
 
 ![sketch sign up](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/353a629f-f88b-4efd-93a4-8a32931bfe9e)
 
+=======
+Index page to classes page to sign up page
+![sketch cta](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/0a504437-a480-4ac4-8ca7-7422a86275b5)
+
+
+Index page to gallery page
+
+![sketch sign up](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/353a629f-f88b-4efd-93a4-8a32931bfe9e)
+
+Index page to sign up page
+>>>>>>> 744cff508fe6939335d2a20142daf5c42a90a45d
 
 ![sketch gallery](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/006c18e1-ebb4-47c7-b37e-d7d775a13e80)
 
