@@ -118,7 +118,9 @@ flex-direction: column;
     height: 900px;
     width: 100%;
     background: url("../images/ivan-zakharenko-KeGKEOjhy6E-unsplash.jpg") no-repeat center center/cover ;   
+    position: relative;
 }
+
 
 #hero-two{
     height: 900px;
