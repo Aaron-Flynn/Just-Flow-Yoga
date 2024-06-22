@@ -8,9 +8,11 @@ Index page to classes page to sign up page
 
 
 Index page to gallery page
+
 ![sketch sign up](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/353a629f-f88b-4efd-93a4-8a32931bfe9e)
 
 Index page to sign up page
+
 ![sketch gallery](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/006c18e1-ebb4-47c7-b37e-d7d775a13e80)
 
 # UX / Features
