@@ -42,10 +42,12 @@ Basic wireframes on how interaction of user from page to page
 ![sign up draft](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/37433ec4-aaa6-4f29-8e0f-fbe9f67f86af)
 
 # Testing 
-All HTML pages and Css styling sheet have been tested using W3C validation and have passed all tests.
+All HTML pages and CSS styling sheet have been tested using W3C validation and have passed all tests.
 
+HTML
 ![HTML Validator](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/e9b596fd-aae6-450a-b566-797c77580c7e)
 
+CSS
 ![css validation](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/02f907bd-2b4e-4d8a-9da6-4d0cda178fb9)
 
 # Debug
