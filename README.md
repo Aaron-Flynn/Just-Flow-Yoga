@@ -1,8 +1,9 @@
 # Description
-
-this is the heading
+Just Flow yoga is a website created using HTML and CSS for user to get information on class times,see what training is on offer and to sign up for classes.
 
 # Wireframes
+Basic wireframes on how interaction of user from page to page
+
 
 ![sketch cta](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/0a504437-a480-4ac4-8ca7-7422a86275b5)
 
