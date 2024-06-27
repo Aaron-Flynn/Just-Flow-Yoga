@@ -58,7 +58,7 @@ Accessibility
 
 
 # Debug
-Added media query for images on gallery page for acreens sizes 576px and up.
+Added media query for images on gallery page for screens sizes 576px and up.
 
 Added a class named container which solved issues for pages to be mobile responsive.On the gallery page the images were not stacking correctly.
 
@@ -66,15 +66,15 @@ Used z-index feature to show the class times but changed to a box shadow as was 
 
 Added margin and padding to sign-up form as sign up button was going underneath the footer.
 
-Issues casue by page named sign up.html, renamed to signup.html and links in each page.
+Issues casued by page named sign up.html, renamed to signup.html and links in each page.
 
 
 # Credit
 Credit for help and support developing this project goes to :
 
-Code Institue fellow students on slack,mentor and tutor support team
+Code Institue fellow students on slack, mentor and tutor support team
 
-Code for Header and Footer section modified form Code Institute - Love running project
+Code for Header and Footer section modified from Code Institute - Love running project
 
 Favicon from https://www.flaticon.com/
 
