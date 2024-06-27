@@ -2,10 +2,12 @@
 ![logo](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/b36f77ed-b001-4fed-a000-aa427cc9a547)
 
 # Description
-Just Flow Yoga is a website created using HTML and CSS for user to get information on class times,see what training is on offer and to sign up for classes.
+Just Flow Yoga is a website created using HTML and CSS.
+
+Just Flow Yoga is a website for user's to get information on class times,see what training is on offer and to sign up for classes.
 
 # Wireframes
-Basic wireframes on the usability on the pages for the user
+wireframes for Usability.
 
 
 ![sketch cta](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/0a504437-a480-4ac4-8ca7-7422a86275b5)
@@ -51,7 +53,28 @@ CSS
 ![css validation](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/02f907bd-2b4e-4d8a-9da6-4d0cda178fb9)
 
 # Debug
+Added media query for images on gallery page for acreens sizes 576px and up.
 
+Added a class named container which solve issues for pages to be mobile responsive.On the gallery page the images were not stacking correctly.
+
+Used z-index feature to show the class times and changed with box shadow was issue's with been mobile responsive.
+
+Added margin and padding to sign-up form and sign up button was going underneath the footer.
+
+Issues casue by page named sign up.html,renamed to signup.html and links in each page.
 
 
 # Credit
+Credit for help and support developing this project goes to :
+
+Code Institue mentor and tutor support team
+
+Code for Header and Footer section modified form Code Institute - Love running project
+
+Favicon from https://www.flaticon.com/
+
+FontAwesome icons from https://fontawesome.com/
+
+Photos from https://unsplash.com/
+
+
