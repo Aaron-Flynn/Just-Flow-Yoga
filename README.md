@@ -53,25 +53,26 @@ CSS
 ![css validation](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/02f907bd-2b4e-4d8a-9da6-4d0cda178fb9)
 
 Accessibility
+
 ![accessibililty](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/91fdf5b8-6605-46d1-b4f6-4fef25c8ec06)
 
 
 # Debug
 Added media query for images on gallery page for acreens sizes 576px and up.
 
-Added a class named container which solve issues for pages to be mobile responsive.On the gallery page the images were not stacking correctly.
+Added a class named container which solved issues for pages to be mobile responsive.On the gallery page the images were not stacking correctly.
 
-Used z-index feature to show the class times and changed with box shadow was issue's with been mobile responsive.
+Used z-index feature to show the class times but changed to a box shadow as was having issue's with been mobile responsive.
 
-Added margin and padding to sign-up form and sign up button was going underneath the footer.
+Added margin and padding to sign-up form as sign up button was going underneath the footer.
 
-Issues casue by page named sign up.html,renamed to signup.html and links in each page.
+Issues casue by page named sign up.html, renamed to signup.html and links in each page.
 
 
 # Credit
 Credit for help and support developing this project goes to :
 
-Code Institue mentor and tutor support team
+Code Institue fellow students on slack,mentor and tutor support team
 
 Code for Header and Footer section modified form Code Institute - Love running project
 
