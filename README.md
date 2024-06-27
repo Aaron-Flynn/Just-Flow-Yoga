@@ -1,6 +1,8 @@
 # Just Flow Yoga 
 ![logo](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/b36f77ed-b001-4fed-a000-aa427cc9a547)
 
+Website : https://aaron-flynn.github.io/Just-Flow-Yoga/
+
 # Description
 Just Flow Yoga is a website created using HTML and CSS.
 
