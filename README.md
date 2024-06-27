@@ -7,7 +7,7 @@ Just Flow Yoga is a website created using HTML and CSS.
 Just Flow Yoga is a website for user's to get information on class times,see what training is on offer and to sign up for classes.
 
 # Wireframes
-wireframes for Usability.
+Wireframes for Usability.
 
 
 ![sketch cta](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/0a504437-a480-4ac4-8ca7-7422a86275b5)
@@ -51,6 +51,10 @@ HTML
 
 CSS
 ![css validation](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/02f907bd-2b4e-4d8a-9da6-4d0cda178fb9)
+
+Accessibility
+![accessibililty](https://github.com/Aaron-Flynn/Just-Flow-Yoga/assets/170866088/91fdf5b8-6605-46d1-b4f6-4fef25c8ec06)
+
 
 # Debug
 Added media query for images on gallery page for acreens sizes 576px and up.
